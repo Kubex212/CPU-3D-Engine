@@ -1,0 +1,8 @@
+Wszystkie współczynniki można zmieniać za pomocą suwaków na UI.
+Kamery i oświetlenie można zmieniać za pomocą radiobuttonów i checkboxów.
+Aby poruszyć piłkę należy nacisnąć "PLAY", a żeby zmienić kierunek lub siłę
+uderzenia trzeba odpowiednio przesunąć suwak "Hit direction" i zmodyfikować
+"Strength".
+Kąt ustawienia latarki można zmienić suwakiem "Light rotation".
+
+Jakub Kobojek 305944
